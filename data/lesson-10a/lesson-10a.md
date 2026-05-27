@@ -1,5 +1,3 @@
-Login to Lang Dojo
+Subscribe to Lang Dojo
 
-Sign upto create an account
-
-Resetpassword
+This content requires a subscription to view.
