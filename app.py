@@ -24,11 +24,35 @@ lessons = get_lessons()
 if not lessons:
     st.info("No lessons found. Please add folders inside the `data/` directory. Each folder should contain a video file (e.g., .mp4) and a script file (e.g., .txt).")
 else:
+    if "selected_lesson" not in st.session_state:
+        st.session_state.selected_lesson = lessons[0]
+
+    def go_prev():
+        current_index = lessons.index(st.session_state.selected_lesson)
+        if current_index > 0:
+            st.session_state.selected_lesson = lessons[current_index - 1]
+
+    def go_next():
+        current_index = lessons.index(st.session_state.selected_lesson)
+        if current_index < len(lessons) - 1:
+            st.session_state.selected_lesson = lessons[current_index + 1]
+
     # Sidebar for navigation
     st.sidebar.header("Navigation")
-    selected_lesson = st.sidebar.selectbox("Select a Lesson", lessons)
+    selected_lesson = st.sidebar.selectbox(
+        "Select a Lesson",
+        lessons,
+        key="selected_lesson"
+    )
 
     if selected_lesson:
+        # Navigation buttons
+        col1, col2, col3 = st.columns([1, 8, 1])
+        with col1:
+            st.button("Back", on_click=go_prev, disabled=(lessons.index(selected_lesson) == 0))
+        with col3:
+            st.button("Next", on_click=go_next, disabled=(lessons.index(selected_lesson) == len(lessons) - 1))
+
         st.header(f"📖 {selected_lesson}")
 
         lesson_path = os.path.join(DATA_DIR, selected_lesson)
