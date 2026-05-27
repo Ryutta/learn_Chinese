@@ -2,14 +2,14 @@ Lesson 1: Nice to Meet You! - 很高兴认识你！
 
 Pronunciation: The Music of Mandarin (声调 - shēngdiào)
 
-The good news is that Chinese grammar is easy compared to European languages. The hardest part for beginners is the tonal system, which is really the core
+The good news is that Chinese grammar is easy compared to European languages. The hardest part for beginners is the tonal system, which is really the core 
                 of how the Chinese language works. However, the tonal system can easily be mastered with practice, and then the heaviest lifting has been done.
 
 The essence to understand is that the tone with which you say a syllable changes its meaning.
                 Similar to how you use a rising, higher tone in English to ask a question - "Really?".
                 Or how you use a lower, shorter tone to give a command - "Go!".
                 This system is used continuously in Mandarin Chinese.
-                There are four main tones and a fifth, neutral tone.
+                There are four main tones and a fifth, neutral tone. 
                 You can think of them like musical notes for syllables.
 
 First Tone (High Level):This tone is pronounced as a high, flat pitch. Kind of like singing a high note. The tone is represented by a flat line above the vowel:
@@ -36,7 +36,7 @@ today
 
 Don't worry about the Chinese characters. In each lesson, we'll analyze a few of them at the end so that you gradually start recognizing them and guess their meanings.
 
-Second Tone (Rising):This tone starts with a medium pitch and rises. Just like asking a surprised question in English: "Really?".
+Second Tone (Rising):This tone starts with a medium pitch and rises. Just like asking a surprised question in English: "Really?". 
                 The tone is represented by a rising line in Pinyin, the Chinese writing system using Western letters:
 
 〇
@@ -55,7 +55,7 @@ person, people
 péngyou
 friend
 
-Third Tone (Dipping-Rising):This tone is a bit longer. It starts mid to low level, dips down, then rises again to a mid or slightly higher level.
+Third Tone (Dipping-Rising):This tone is a bit longer. It starts mid to low level, dips down, then rises again to a mid or slightly higher level. 
                 It is similar to a sigh of consideration in English - "Well..." or a slow, drawn-out "Oh...". The tone is represented by a falling-rising line in Pinyin:
 
 你
@@ -88,7 +88,7 @@ two
 shì
 to be (am, is, are)
 
-Neutral Tone:This tone is short and light with no pitch. Like the unstressed 'a' sound in "about" or the 'er' in "teacher" in English.
+Neutral Tone:This tone is short and light with no pitch. Like the unstressed 'a' sound in "about" or the 'er' in "teacher" in English. 
                 The tone has no tone mark in Pinyin:
 
 吗
@@ -99,7 +99,7 @@ question word (yes/no questions)
 ne
 question word (to return the same question)
 
-Don't worry if you struggle to recognize the different tones, this is your first try. By the end of these lessons,
+Don't worry if you struggle to recognize the different tones, this is your first try. By the end of these lessons, 
                 your mind will already be trained much better to distinguish the four tones. One student mentioned that during lesson 1,
                 she couldn't really hear the tone differences at all, and by lesson 15, she had become an expert.
 
